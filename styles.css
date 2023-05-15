@@ -1,0 +1,42 @@
+header {
+  font-size: 70px;
+  text-align: center;
+  background-color: #A8DC9A;
+}
+p {
+  font-size: 16.5px;
+  margin: 15px;
+  text-align: left;
+}
+h3 {
+  text-align: center;
+  margin-top: 15px;
+}
+label {
+  margin-left: 5px;
+  font-size: 15px;
+}
+input {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+#info {
+  float: left;
+  width: 60%;
+  height: 100%;
+  border-radius: 2%;
+}
+#signup {
+  float: left;
+  width: 40%;
+  height: 100%;
+}
+#bgcolor{
+  float: left;
+  margin-top: 30px;
+  margin-right: 30px;
+  width: 45%;
+  height: 450px;
+  background-color: #A8DC9A;
+  border-radius: 2%;
+}
